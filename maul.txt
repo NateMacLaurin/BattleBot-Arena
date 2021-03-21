@@ -1,0 +1,11 @@
+******************************************************************************
+***Classification:     'Maul' Medium BattleBot********************************
+***Primary Weapon:            150mm AutoCannon****RANGE: 15 DMG: 20 HEAT: 16 *
+***Secondary Weapon:              Medium Laser****RANGE: 5  DMG: 9  HEAT: 4  *
+***Handling:                              Fair****(-1 to enemy attack)       *
+***Targeting:                             Fair****(+1 to your attack)        *
+***Speed:                                 Good****(40 yards/movement)        *
+***Armor:                              Average****(-2 DMG taken)             *
+***Health:                             Average****(100 HP)                   *
+***Heat Capacity:                         Good****(50 Heat)                  *
+******************************************************************************

@@ -1,0 +1,10 @@
+*******************************************************************************
+DEFEAT!
+
+Your bot has been lost in the field, pilot. Fortunately, our rescue corps was
+able to recover your escape pod. I hope you learned from your mistakes, because
+you're all we've got. Keep your chin up, and good luck on your next mission!
+
+Regards,
+Gen. Derak Darksun
+*******************************************************************************

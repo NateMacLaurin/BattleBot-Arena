@@ -1,0 +1,3 @@
+OpenDesert 50 2 0
+DenseForest 20 0 2
+IcyRidges 35 -2 0

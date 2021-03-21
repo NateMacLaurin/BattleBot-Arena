@@ -1,0 +1,5 @@
+*******************************************************************************
+1) Pvt. Don 'Starwolf' Young, piloting a damaged heavy bot               (EASY)
+2) Sgt. Ren 'Hound' Dorian, piloting a light bot                       (MEDIUM)
+3) Cpt. Vaughn 'Dr.Black' von Blackmore, piloting a medium bot           (HARD)
+*******************************************************************************

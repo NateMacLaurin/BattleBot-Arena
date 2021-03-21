@@ -1,0 +1,11 @@
+******************************************************************************
+***Classification:      'Ogre' Heavy BattleBot********************************
+***Primary Weapon:  Particle Projection Cannon****RANGE: 20 DMG: 20 HEAT: 25 *
+***Secondary Weapon:           90mm Autocannon****RANGE: 15 DMG: 8  HEAT:  8 *
+***Handling:                               Bad****(+2 to enemy attack)       *
+***Targeting:                          Average****(+0 to your attack)        *
+***Speed:                                  Bad****(30 yards/movement)        *
+***Armor:                            Very Good****(-3 DMG taken)             *
+***Health:                           Very Good****(120 HP)                   *
+***Heat Capacity:                      Average****(40 Heat)                  *
+******************************************************************************

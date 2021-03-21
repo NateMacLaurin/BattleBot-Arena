@@ -1,0 +1,13 @@
+*******************************************************************************
+*   INPUT:                                          ACTION:                   *
+*   'moveto'          move towards the enemy (or go past them at close range) *
+*   'moveaway'        back away from the enemy at your current movement speed *
+*   'fireprimary'         Fire your primary weapon (type 'stats' for details) *
+*   'firesecondary'     Fire your secondary weapon (type 'stats' for details) *
+*   'aim'                                  Gain +5 to hit on your next attack *
+*   'sinkheat'                                                 Sink 9-21 heat *
+*   'repair'                                                   Repair 4-13 HP *
+*   'surrender'                                           Surrender the match *
+*   'stats'                               Shows you your bot's detailed stats *
+*   'savegame'                              Saves your current game and exits *
+*******************************************************************************

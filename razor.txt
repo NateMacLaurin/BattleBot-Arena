@@ -1,0 +1,11 @@
+******************************************************************************
+***Classification:     'Razor' Light BattleBot********************************
+***Primary Weapon:                 Pulse Laser****RANGE: 4 DMG: 15 HEAT: 11  *
+***Secondary Weapon:               Machine Gun****RANGE: 3 DMG: 6  HEAT: 1   *
+***Handling:                         Very Good****(-3 to enemy attack)       *
+***Targeting:                        Very Good****(+3 to your attack)        *
+***Speed:                            Very Good****(60 yards/movement)        *
+***Armor:                                  Bad****(-1 DMG taken)             *
+***Health:                                 Bad****(80 HP)                    *
+***Heat Capacity:                    Very Good****(60 Heat)                  *
+******************************************************************************

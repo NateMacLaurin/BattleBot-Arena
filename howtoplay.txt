@@ -1,0 +1,12 @@
+*******************************************************************************
+HOW TO PLAY:
+Welcome to battlebot combat simulator! In this game, you will choose to pilot
+from one of three walking robotic tanks known as 'battle bots'. You will choose
+an enemy, which will determine the difficulty, and a combat location, which
+may affect certain aspects of your bot such as speed or heat sink.
+
+The goal of the game is to destroy your opponent with your weapons before they
+destroy you! But be careful! Your weapons are only effective within a certain
+range, and battlebot weapons generate huge amounts of heat! If your reactor
+runs out of heat capacity, it will melt down and you will be forced to eject!
+*******************************************************************************
