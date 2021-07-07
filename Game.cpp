@@ -1,8 +1,3 @@
-/*  Nathan W Brown
-brow1982@umn.edu
-EE1301 - Fall 2016
-Final Project	*/
-
 #include <ctime>
 #include <iostream>
 #include <fstream>
